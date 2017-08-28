@@ -30,7 +30,6 @@
 			"}"
 		]
 	},
-
 	"Unity3D Custom Editor": {
 		"prefix": "ueditor",
 		"body": [
@@ -61,7 +60,6 @@
 			"}"
 		]
 	},
-
 	"Unity3D Editor Window": {
 		"prefix": "uwindow",
 		"body": [
@@ -87,6 +85,17 @@
 			"\t{",
 			"\t\t$0GUILayout.Label( \"${2:Title}\" );",
 			"\t}",
+			"}"
+		]
+	},
+	"Unity3D Scenes Loop": {
+		"prefix": "uscenesloop",
+		"body": [
+			"for( int i = 0, count = SceneManager.sceneCount; i < count; ++i )",
+			"{",
+			"\tvar scene = SceneManager.GetSceneAt( i );",
+			"\tif( !scene.IsValid() )",
+			"\t\tcontinue;",
 			"}"
 		]
 	}
