@@ -98,5 +98,38 @@
 			"\t\tcontinue;",
 			"}"
 		]
+	},
+	"Unity3D Root Game Objects Loop": {
+		"prefix": "urootgosloop",
+		"body": [
+			"List<GameObject> rootGOs = new List<GameObject>();",
+			"for( int sceneIdx = 0, sceneCount = SceneManager.sceneCount; sceneIdx < sceneCount; ++sceneIdx )",
+			"{",
+			"\tvar scene = SceneManager.GetSceneAt( sceneIdx );",
+			"\tif( !scene.IsValid() )",
+			"\t\tcontinue;",
+			"",
+			"\tscene.GetRootGameObjects( rootGOs );",
+			"\tfor( int goIdx = 0, gosCount = rootGOs.Count; goIdx < gosCount; ++goIdx )",
+			"\t{",
+			"\t\t$0",
+			"\t}",
+			"}"
+		]
+	},
+	"Unity3D Process Transform Recursive": {
+		"prefix": "utransformrecursive",
+		"body": [
+			"public static void ${1:MethodName}Recursive ( Transform t )",
+			"{",
+			"\t$0",
+			"",
+			"\tfor( int childIdx = 0, childCount = t.childCount; childIdx < childCount; ++childIdx )",
+			"\t{",
+			"\t\tvar child = t.GetChild( childIdx );",
+			"\t\t${1:MethodName}Recursive( child );",
+			"\t}",
+			"}"
+		]
 	}
 }
