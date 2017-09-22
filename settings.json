@@ -12,10 +12,10 @@
     "editor.rulers": [78, 124],
 
     // The number of spaces a tab is equal to.
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
 
     // Insert spaces when pressing Tab.
-    "editor.insertSpaces": false,
+    "editor.insertSpaces": true,
 
     // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
     "editor.detectIndentation": true,
@@ -85,5 +85,6 @@
 // Git
 
     "git.enableSmartCommit": true,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "cmake-tools-helper.cmake_download_path": "/Users/dmitry/.vscode/extensions/maddouri.cmake-tools-helper-0.1.1/cmake_download"
 }
