@@ -4,8 +4,11 @@
 
     // Controls the font family.
     "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+
     // Controls the font size in pixels.
     "editor.fontSize": 12,
+
+    // Enables font ligatures
     "editor.fontLigatures": true,
 
     // Columns at which to show vertical rulers
