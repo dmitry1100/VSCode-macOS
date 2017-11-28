@@ -96,5 +96,7 @@
 
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "cmake-tools-helper.cmake_download_path": "/Users/dmitry/.vscode/extensions/maddouri.cmake-tools-helper-0.1.1/cmake_download"
+    "cmake-tools-helper.cmake_download_path": "/Users/dmitry/.vscode/extensions/maddouri.cmake-tools-helper-0.1.1/cmake_download",
+    "cmake.cmakePath": "/usr/local/bin/cmake",
+    "cmake.useCMakeServer": true
 }
