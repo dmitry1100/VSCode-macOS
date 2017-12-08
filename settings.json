@@ -97,7 +97,7 @@
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
 
-// CMake Tools configuration
+// CMake configuration
 
     "cmake.cmakePath": "/usr/local/bin/cmake"
 }
