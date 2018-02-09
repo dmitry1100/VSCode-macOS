@@ -12,4 +12,9 @@
 }, {
 	"key": "shift+alt+cmd+s",
 	"command": "workbench.action.git.sync"
-}]
+},
+{
+	"key": "shift+cmd+u",
+	"command": "editor.action.transformToUppercase"
+}
+]
