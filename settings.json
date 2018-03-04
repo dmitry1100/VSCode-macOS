@@ -3,7 +3,7 @@
 // Editor
 
     // Controls the font family.
-    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Fira Code', Consolas, Menlo, Monaco, 'Courier New', monospace",
 
     // Controls the font size in pixels.
     "editor.fontSize": 12,
