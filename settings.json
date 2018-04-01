@@ -79,9 +79,6 @@
 	// Suppress the warning that the .NET CLI is not on the path.
 	"csharp.suppressDotnetInstallWarning": true,
 
-	// Launch OmniSharp with Mono.
-	"omnisharp.useMono": true,
-
 // C# XML Documentation Comments configuration
 
 	// Press the Enter key to activate a command.
