@@ -97,5 +97,6 @@
 // CMake configuration
 
 	"cmake.cmakePath": "/usr/local/bin/cmake",
-	"vsicons.dontShowNewVersionMessage": true
+	"vsicons.dontShowNewVersionMessage": true,
+	"window.openFoldersInNewWindow": "off"
 }
