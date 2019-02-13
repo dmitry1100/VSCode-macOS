@@ -1,4 +1,24 @@
 {
+	"Unity MonoBehaviour": {
+		"prefix": "umonobehaviour",
+		"body": [
+			"using System.Collections;",
+			"using System.Collections.Generic;",
+			"using UnityEngine;",
+			"",
+			"namespace Fiftytwo",
+			"{",
+			"\tpublic class ${TM_FILENAME/(.*)\\..+$/$1/} : MonoBehaviour",
+			"\t{",
+			"\t\tprivate void Awake ()",
+			"\t\t{",
+			"\t\t\t$0",
+			"\t\t}",
+			"\t}",
+			"}",
+			"",
+		]
+	},
 	"Unity3D Property Drawer": {
 		"prefix": "upropertydrawer",
 		"body": [
