@@ -99,5 +99,6 @@
 	"cmake.cmakePath": "/usr/local/bin/cmake",
 	"vsicons.dontShowNewVersionMessage": true,
 	"window.openFoldersInNewWindow": "off",
-	"zenMode.centerLayout": false
+	"zenMode.centerLayout": false,
+	"editor.acceptSuggestionOnCommitCharacter": false
 }
