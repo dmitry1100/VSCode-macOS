@@ -16,5 +16,9 @@
 {
 	"key": "shift+cmd+u",
 	"command": "editor.action.transformToUppercase"
+},
+{
+	"key": "cmd+r",
+	"command": "workbench.action.reloadWindow"
 }
 ]
