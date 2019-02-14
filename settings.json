@@ -68,6 +68,11 @@
 
 	// When enabled, will trim trailing whitespace when you save a file.
 	"files.trimTrailingWhitespace": true,
+	"files.associations": {
+		"*.meta": "yaml",
+		"*.asset": "yaml",
+		"*.unity": "yaml"
+	},
 
 // C/C++ Configuration
 
@@ -99,5 +104,7 @@
 	"cmake.cmakePath": "/usr/local/bin/cmake",
 	"vsicons.dontShowNewVersionMessage": true,
 	"window.openFoldersInNewWindow": "off",
-	"zenMode.centerLayout": false
+	"zenMode.centerLayout": false,
+	"explorer.confirmDelete": false,
+	"editor.acceptSuggestionOnCommitCharacter": false
 }
