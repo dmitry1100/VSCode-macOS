@@ -46,10 +46,6 @@
 	// Controls if lines should wrap. The lines will wrap at min(editor.wrappingColumn, viewportWidthInColumns).
 	"editor.wordWrap": "on",
 
-// Workbench
-
-	"workbench.iconTheme": "vscode-icons",
-
 // Window
 
 	// Controls if files should open in a new window.
@@ -100,5 +96,7 @@
 	"vsicons.dontShowNewVersionMessage": true,
 	"window.openFoldersInNewWindow": "off",
 	"zenMode.centerLayout": false,
-	"editor.acceptSuggestionOnCommitCharacter": false
+	"editor.acceptSuggestionOnCommitCharacter": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false
 }
