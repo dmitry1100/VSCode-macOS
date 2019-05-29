@@ -102,5 +102,6 @@
 	"zenMode.centerLayout": false,
 	"editor.acceptSuggestionOnCommitCharacter": false,
 	"explorer.confirmDragAndDrop": false,
-	"explorer.confirmDelete": false
+	"explorer.confirmDelete": false,
+	"workbench.colorTheme": "Night Owl (No Italics)"
 }
