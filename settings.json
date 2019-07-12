@@ -104,12 +104,5 @@
 	"explorer.confirmDragAndDrop": false,
 	"explorer.confirmDelete": false,
 	"workbench.colorTheme": "Night Owl (No Italics)",
-	"workbench.iconTheme": "vscode-icons",
-	"gitlens.currentLine.enabled": false,
-	"gitlens.hovers.currentLine.over": "line",
-	"gitlens.views.repositories.location": "gitlens",
-	"gitlens.views.fileHistory.location": "gitlens",
-	"gitlens.views.lineHistory.location": "gitlens",
-	"gitlens.views.compare.location": "gitlens",
-	"gitlens.views.search.location": "gitlens"
+	"workbench.iconTheme": "vscode-icons"
 }
