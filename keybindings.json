@@ -20,5 +20,10 @@
 {
 	"key": "cmd+r",
 	"command": "workbench.action.reloadWindow"
+},
+{
+	"key": "cmd+alt+s",
+	"command": "workbench.action.tasks.runTask",
+	"args": "Sync with Unity Editor"
 }
 ]
