@@ -103,6 +103,6 @@
 	"editor.acceptSuggestionOnCommitCharacter": false,
 	"explorer.confirmDragAndDrop": false,
 	"explorer.confirmDelete": false,
-	"workbench.colorTheme": "Night Owl (No Italics)",
-	"workbench.iconTheme": "vscode-icons"
+	"workbench.colorTheme": "Night Owl+ Dark",
+	"workbench.iconTheme": "vscode-icons-mac"
 }
