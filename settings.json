@@ -103,6 +103,7 @@
 	"editor.acceptSuggestionOnCommitCharacter": false,
 	"explorer.confirmDragAndDrop": false,
 	"explorer.confirmDelete": false,
-	"workbench.colorTheme": "Night Owl+ Dark",
-	"workbench.iconTheme": "vscode-icons-mac"
+	"workbench.colorTheme": "eppz!",
+	"workbench.iconTheme": "vscode-icons-mac",
+	"terminal.integrated.shell.osx": "/bin/zsh"
 }
