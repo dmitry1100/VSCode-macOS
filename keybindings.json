@@ -1,17 +1,16 @@
 // Place your key bindings in this file to overwrite the defaults
-[{
-	"key": "alt+space",
-	"command": "editor.action.triggerSuggest",
-	"when": "editorTextFocus"
-}, {
+[
+{
 	"key": "ctrl+alt+down",
 	"command": "workbench.action.compareEditor.nextChange"
-}, {
+},
+{
 	"key": "ctrl+alt+up",
 	"command": "workbench.action.compareEditor.previousChange"
-}, {
+},
+{
 	"key": "shift+alt+cmd+s",
-	"command": "workbench.action.git.sync"
+	"command": "git.sync"
 },
 {
 	"key": "shift+cmd+u",
@@ -25,5 +24,15 @@
 	"key": "cmd+alt+s",
 	"command": "workbench.action.tasks.runTask",
 	"args": "Sync with Unity Editor"
+},
+{
+	"key": "alt+space",
+	"command": "editor.action.triggerParameterHints",
+	"when": "editorHasSignatureHelpProvider && editorTextFocus"
+},
+{
+	"key": "shift+cmd+space",
+	"command": "-editor.action.triggerParameterHints",
+	"when": "editorHasSignatureHelpProvider && editorTextFocus"
 }
 ]
