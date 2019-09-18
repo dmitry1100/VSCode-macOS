@@ -105,5 +105,7 @@
 	"explorer.confirmDelete": false,
 	"workbench.colorTheme": "Night Owl+",
 	"workbench.iconTheme": "vscode-icons-mac",
-	"terminal.integrated.shell.osx": "/bin/zsh"
+	"terminal.integrated.shell.osx": "/bin/zsh",
+	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false
 }
