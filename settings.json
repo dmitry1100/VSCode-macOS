@@ -46,6 +46,8 @@
 	// Controls if lines should wrap. The lines will wrap at min(editor.wrappingColumn, viewportWidthInColumns).
 	"editor.wordWrap": "on",
 
+	"editor.acceptSuggestionOnCommitCharacter": false,
+
 // Window
 
 	// Controls if files should open in a new window.
@@ -59,6 +61,8 @@
 	//"window.restoreFullscreen": true,
 
 	"window.zoomLevel": 0,
+
+	"window.openFoldersInNewWindow": "off",
 
 // Files
 
@@ -98,14 +102,27 @@
 // CMake configuration
 
 	"cmake.cmakePath": "/usr/local/bin/cmake",
-	"window.openFoldersInNewWindow": "off",
+
+// Zen mode
+
 	"zenMode.centerLayout": false,
-	"editor.acceptSuggestionOnCommitCharacter": false,
+
+// Explorer
+
 	"explorer.confirmDragAndDrop": false,
 	"explorer.confirmDelete": false,
-	"workbench.colorTheme": "Night Owl+",
-	"workbench.iconTheme": "vscode-icons-mac",
+
+// Terminal
+
 	"terminal.integrated.shell.osx": "/bin/zsh",
+
+// Telemetry
+
 	"telemetry.enableCrashReporter": false,
-	"telemetry.enableTelemetry": false
+	"telemetry.enableTelemetry": false,
+
+// Workbench
+
+	"workbench.colorTheme": "Night Owl (No Italics)",
+	"workbench.iconTheme": "vscode-great-icons",
 }
