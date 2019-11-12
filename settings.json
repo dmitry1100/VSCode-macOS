@@ -6,7 +6,7 @@
 	"editor.fontFamily": "'Fira Code', Consolas, Menlo, Monaco, 'Courier New', monospace",
 
 	// Controls the font size in pixels.
-	"editor.fontSize": 12,
+	"editor.fontSize": 13,
 
 	// Enables font ligatures
 	"editor.fontLigatures": true,
@@ -67,7 +67,8 @@
 // Files
 
 	// When enabled, will trim trailing whitespace when you save a file.
-	"files.trimTrailingWhitespace": true,
+	"files.trimTrailingWhitespace": false,
+
 	"files.associations": {
 		"*.meta": "yaml",
 		"*.asset": "yaml",
