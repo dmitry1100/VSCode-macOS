@@ -72,7 +72,8 @@
 	"files.associations": {
 		"*.meta": "yaml",
 		"*.asset": "yaml",
-		"*.unity": "yaml"
+		"*.unity": "yaml",
+		"*.prefab": "yaml"
 	},
 
 // C/C++ Configuration
