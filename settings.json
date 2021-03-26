@@ -133,4 +133,5 @@
 	"extensions.ignoreRecommendations": true,
 	"explorer.compactFolders": false,
 	"omnisharp.useGlobalMono": "always",
+	"window.restoreWindows": "none",
 }
