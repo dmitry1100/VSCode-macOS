@@ -134,4 +134,5 @@
 	"explorer.compactFolders": false,
 	"omnisharp.useGlobalMono": "always",
 	"window.restoreWindows": "none",
+	"security.workspace.trust.untrustedFiles": "open",
 }
