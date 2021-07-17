@@ -73,7 +73,8 @@
 		"*.meta": "yaml",
 		"*.asset": "yaml",
 		"*.unity": "yaml",
-		"*.prefab": "yaml"
+		"*.prefab": "yaml",
+		"*.plist": "xml"
 	},
 
 // C/C++ Configuration
