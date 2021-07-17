@@ -11,6 +11,7 @@ code --install-extension karyfoundation.theme-karyfoundation-themes
 code --install-extension liviuschera.noctis
 code --install-extension ms-dotnettools.csharp
 code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
 code --install-extension ms-vscode.cpptools
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
