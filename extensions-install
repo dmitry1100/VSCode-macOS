@@ -5,11 +5,13 @@ code --install-extension dnicolson.binary-plist
 code --install-extension donjayamanne.githistory
 code --install-extension emmanuelbeziat.vscode-great-icons
 code --install-extension felipecaputo.git-project-manager
+code --install-extension icsharpcode.ilspy-vscode
 code --install-extension johnpapa.winteriscoming
 code --install-extension k--kato.docomment
 code --install-extension karyfoundation.theme-karyfoundation-themes
 code --install-extension liviuschera.noctis
 code --install-extension ms-dotnettools.csharp
+code --install-extension ms-dotnettools.vscode-dotnet-runtime
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
