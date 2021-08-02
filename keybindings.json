@@ -26,13 +26,33 @@
 	"args": "Sync with Unity Editor"
 },
 {
-	"key": "alt+space",
-	"command": "editor.action.triggerParameterHints",
-	"when": "editorHasSignatureHelpProvider && editorTextFocus"
+	"key": "ctrl+shift+cmd+space",
+	"command": "editor.action.triggerSuggest",
+	"when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
 },
 {
-	"key": "shift+cmd+space",
-	"command": "-editor.action.triggerParameterHints",
-	"when": "editorHasSignatureHelpProvider && editorTextFocus"
+	"key": "ctrl+space",
+	"command": "-editor.action.triggerSuggest",
+	"when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+},
+{
+	"key": "ctrl+shift+cmd+space",
+	"command": "toggleSuggestionDetails",
+	"when": "suggestWidgetVisible && textInputFocus"
+},
+{
+	"key": "ctrl+space",
+	"command": "-toggleSuggestionDetails",
+	"when": "suggestWidgetVisible && textInputFocus"
+},
+{
+	"key": "ctrl+shift+alt+cmd+space",
+	"command": "toggleSuggestionFocus",
+	"when": "suggestWidgetVisible && textInputFocus"
+},
+{
+	"key": "ctrl+alt+space",
+	"command": "-toggleSuggestionFocus",
+	"when": "suggestWidgetVisible && textInputFocus"
 }
 ]
