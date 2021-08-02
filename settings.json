@@ -126,7 +126,7 @@
 
 // Workbench
 
-	"workbench.colorTheme": "Night Owl (No Italics)",
+	"workbench.colorTheme": "Night Owl Light (No Italics)",
 	"workbench.iconTheme": "vscode-great-icons",
 	"material-icon-theme.showWelcomeMessage": false,
 	"extensions.autoUpdate": false,
