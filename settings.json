@@ -3,13 +3,13 @@
 // Editor
 
 	// Controls the font family.
-	"editor.fontFamily": "'Fira Code', Consolas, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontFamily": "Consolas, Menlo, Monaco, 'Courier New', monospace",
 
 	// Controls the font size in pixels.
 	"editor.fontSize": 13,
 
 	// Enables font ligatures
-	"editor.fontLigatures": true,
+	"editor.fontLigatures": false,
 
 	// Columns at which to show vertical rulers
 	"editor.rulers": [78, 124],
@@ -56,11 +56,6 @@
 	// - off: files will open in the window with the files' folder open or the last active window
 	// Note that there can still be cases where this setting is ignored (e.g. when using the -new-window or -reuse-window command line option).
 	"window.openFilesInNewWindow": "off",
-
-	// Controls if a window should restore to full screen mode if it was exited in full screen mode.
-	//"window.restoreFullscreen": true,
-
-	"window.zoomLevel": 0,
 
 	"window.openFoldersInNewWindow": "off",
 

@@ -7,6 +7,7 @@
 [Ee]hthumbs.db
 [Tt]humbs.db
 
-workspaceStorage/
-globalStorage/
-vsicons.settings.json
+/workspaceStorage/
+/globalStorage/
+/sync/
+/vsicons.settings.json
