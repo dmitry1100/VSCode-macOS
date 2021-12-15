@@ -58,10 +58,6 @@
 	"window.openFilesInNewWindow": "off",
 
 	"window.openFoldersInNewWindow": "off",
-
-// Files
-
-	// When enabled, will trim trailing whitespace when you save a file.
 	"files.trimTrailingWhitespace": false,
 
 	"files.associations": {
