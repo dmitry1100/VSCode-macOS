@@ -121,5 +121,5 @@
 	"editor.accessibilitySupport": "off",
 	"editor.guides.indentation": true,
 	"extensions.autoUpdate": false,
-	"editor.fontFamily": "Consolas, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontFamily": "Menlo, Consolas, Monaco, 'Courier New', monospace",
 }
