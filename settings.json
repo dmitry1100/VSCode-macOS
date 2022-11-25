@@ -113,7 +113,6 @@
 	"material-icon-theme.showWelcomeMessage": false,
 	"extensions.ignoreRecommendations": true,
 	"explorer.compactFolders": false,
-	"omnisharp.useGlobalMono": "always",
 	"window.restoreWindows": "none",
 	"security.workspace.trust.untrustedFiles": "open",
 	"editor.unicodeHighlight.nonBasicASCII": false,
@@ -122,4 +121,5 @@
 	"editor.guides.indentation": true,
 	"extensions.autoUpdate": false,
 	"editor.fontFamily": "Menlo, Consolas, Monaco, 'Courier New', monospace",
+	"omnisharp.useModernNet": false,
 }
