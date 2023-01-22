@@ -122,4 +122,5 @@
 	"extensions.autoUpdate": false,
 	"editor.fontFamily": "Menlo, Consolas, Monaco, 'Courier New', monospace",
 	"omnisharp.useModernNet": false,
+	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
 }
