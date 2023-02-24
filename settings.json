@@ -86,7 +86,7 @@
 
 // CMake configuration
 
-	"cmake.cmakePath": "/usr/local/bin/cmake",
+	"cmake.cmakePath": "/usr/bin/cmake",
 
 // Zen mode
 
