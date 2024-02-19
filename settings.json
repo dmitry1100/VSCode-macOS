@@ -108,7 +108,7 @@
 
 // Workbench
 
-	"workbench.colorTheme": "Dark+ Tweaked",
+	"workbench.colorTheme": "Light+ Tweaked",
 	"workbench.iconTheme": "vscode-great-icons",
 	"material-icon-theme.showWelcomeMessage": false,
 	"extensions.ignoreRecommendations": true,
@@ -125,4 +125,7 @@
 	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
 	"terminal.integrated.inheritEnv": false,
 	"cmake.showOptionsMovedNotification": false,
+	"workbench.preferredDarkColorTheme": "Dark+ Tweaked",
+	"workbench.preferredLightColorTheme": "Light+ Tweaked",
+	"window.autoDetectColorScheme": true,
 }

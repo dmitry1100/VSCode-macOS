@@ -1,5 +1,7 @@
 code --install-extension abhiagr.logcat
 code --install-extension amlovey.shaderlabvscodefree
+code --install-extension dart-code.dart-code
+code --install-extension dart-code.flutter
 code --install-extension davidanson.vscode-markdownlint
 code --install-extension dnicolson.binary-plist
 code --install-extension donjayamanne.githistory
@@ -11,10 +13,9 @@ code --install-extension jeff-hykin.better-cpp-syntax
 code --install-extension johnpapa.winteriscoming
 code --install-extension joshuapoehls.json-escaper
 code --install-extension k--kato.docomment
-code --install-extension karyfoundation.theme-karyfoundation-themes
-code --install-extension liviuschera.noctis
 code --install-extension ms-dotnettools.csdevkit
 code --install-extension ms-dotnettools.csharp
+code --install-extension ms-dotnettools.dotnet-maui
 code --install-extension ms-dotnettools.vscode-dotnet-runtime
 code --install-extension ms-dotnettools.vscodeintellicode-csharp
 code --install-extension ms-python.debugpy
@@ -37,7 +38,4 @@ code --install-extension slevesque.shader
 code --install-extension sryze.uridecode
 code --install-extension tobiah.unity-tools
 code --install-extension twxs.cmake
-code --install-extension uloco.theme-bluloco-dark
-code --install-extension uloco.theme-bluloco-light
-code --install-extension unity.unity-debug
 code --install-extension visualstudiotoolsforunity.vstuc
