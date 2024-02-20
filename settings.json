@@ -128,4 +128,5 @@
 	"workbench.preferredDarkColorTheme": "Dark+ Tweaked",
 	"workbench.preferredLightColorTheme": "Light+ Tweaked",
 	"window.autoDetectColorScheme": true,
+	"dart.flutterSdkPath": "/opt/my/flutter",
 }
