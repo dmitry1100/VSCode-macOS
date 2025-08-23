@@ -130,4 +130,5 @@
 	"window.autoDetectColorScheme": true,
 	"dart.flutterSdkPath": "/opt/my/flutter",
 	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"git.openRepositoryInParentFolders": "never",
 }
