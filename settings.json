@@ -122,7 +122,7 @@
 	"extensions.autoUpdate": false,
 	"editor.fontFamily": "Menlo, Consolas, Monaco, 'Courier New', monospace",
 	"omnisharp.useModernNet": false,
-	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3.13",
 	"terminal.integrated.inheritEnv": false,
 	"cmake.showOptionsMovedNotification": false,
 	"workbench.preferredDarkColorTheme": "Dark+ Tweaked",
@@ -131,4 +131,10 @@
 	"dart.flutterSdkPath": "/opt/my/flutter",
 	"editor.unicodeHighlight.ambiguousCharacters": false,
 	"git.openRepositoryInParentFolders": "never",
+	"[python]": {
+		"diffEditor.ignoreTrimWhitespace": false,
+		"editor.defaultColorDecorators": "never"
+	},
+	"[log]": {},
+	"diffEditor.maxComputationTime": 0,
 }
