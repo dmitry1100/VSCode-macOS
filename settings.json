@@ -137,4 +137,12 @@
 	},
 	"[log]": {},
 	"diffEditor.maxComputationTime": 0,
+	"chat.viewSessions.orientation": "stacked",
+	"github.copilot.enable": {
+		"*": true,
+		"plaintext": false,
+		"markdown": false,
+		"scminput": false
+	},
+	"chatgpt.localeOverride": null,
 }
