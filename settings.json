@@ -86,7 +86,7 @@
 
 // CMake configuration
 
-	"cmake.cmakePath": "/usr/bin/cmake",
+	"cmake.cmakePath": "/opt/homebrew/bin/cmake",
 
 // Zen mode
 
@@ -119,10 +119,10 @@
 	"files.defaultLanguage": "plaintext",
 	"editor.accessibilitySupport": "off",
 	"editor.guides.indentation": true,
-	"extensions.autoUpdate": false,
+	"extensions.autoUpdate": "off",
 	"editor.fontFamily": "Menlo, Consolas, Monaco, 'Courier New', monospace",
 	"omnisharp.useModernNet": false,
-	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3.13",
+	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
 	"terminal.integrated.inheritEnv": false,
 	"cmake.showOptionsMovedNotification": false,
 	"workbench.preferredDarkColorTheme": "Dark+ Tweaked",
@@ -145,4 +145,9 @@
 		"scminput": false
 	},
 	"chatgpt.localeOverride": null,
+	"[markdown]": {
+		"diffEditor.ignoreTrimWhitespace": true
+	},
+	"chat.disableAIFeatures": true,
+	"microsoft-authentication.implementation": "msal-no-broker",
 }
